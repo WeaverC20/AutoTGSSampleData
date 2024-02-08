@@ -1,0 +1,2 @@
+run_name grating_value[um] SAW_freq[Hz] SAW_freq_error[Hz] A[Wm^-2] A_err[Wm^-2] alpha[m^2s^-1] alpha_err[m2s-1] beta[s^0.5] beta_err[s^0.5] B[Wm^-2] B_err[Wm^-2] theta theta_err tau[s] tau_err[s] C[Wm^-2] C_err[Wm^-2]
+/Users/colinweaver/Documents/UROP/DataProcessing/fullmap/CuCrAlx-15y-5/fullMap-CuCrAl-06.40um-spot00-POS-1.txt 6.11 5.5166849e+08 3610.953 0.036651361 0.00014708138 5.5792365e-06 1.2147943e-07 1.9816743e-05 NaN 0.007183397 0.00010119119 -1.4221919 0.0090717557 5.5106833e-08 1.0364968e-09 -0.0031753103 0.00018395081
