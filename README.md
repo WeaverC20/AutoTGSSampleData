@@ -29,7 +29,11 @@ Transient grating spectroscopy (TGS) is a **non-destructive** technique for meas
 - Acoustic damping  
 - Other thermo-mechanical properties  
 
+### Example Raw TGS Signal + Fit  
 
+<p align="center">
+  <img src="assets/TGSResponseEx-1.png" width="65%">
+</p>
 
 A key challenge with TGS is the extremely tight **20 μm focal tolerance**, which historically required:
 - Manual stage adjustments  
@@ -47,12 +51,6 @@ This work introduces:
 ---
 
 ## Key Results
-
-### Example Raw TGS Signal + Fit  
-
-<p align="center">
-  <img src="assets/TGSResponseEx-1.png" width="65%">
-</p>
 
 ---
 
