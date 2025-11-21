@@ -51,7 +51,7 @@ This work introduces:
 ### Example Raw TGS Signal + Fit  
 
 <p align="center">
-  <img src="assets/TGSResponseEx.pdf" width="65%">
+  <img src="assets/TGSResponseEx-1.png" width="65%">
 </p>
 
 ---
@@ -59,7 +59,7 @@ This work introduces:
 ### Thermal Diffusivity Map (40 mm × 40 mm)
 
 <p align="center">
-  <img src="assets/CuCrAlHeatmap.pdf" width="75%">
+  <img src="assets/CuCrAlHeatmap-1.png" width="75%">
 </p>
 
 ---
