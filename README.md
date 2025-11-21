@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This repository contains supporting material and code associated with the paper:
 
@@ -21,7 +21,7 @@ This system dramatically reduces mapping time, enables high-throughput TGS chara
 
 ---
 
-## 🧪 Research Summary
+## Research Summary
 
 Transient grating spectroscopy (TGS) is a **non-destructive** technique for measuring:
 - Thermal diffusivity  
@@ -46,12 +46,12 @@ This work introduces:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Example Raw TGS Signal + Fit  
 
 <p align="center">
-  <img src="TGSResponseEx.pdf" width="65%">
+  <img src="assets/TGSResponseEx.pdf" width="65%">
 </p>
 
 ---
@@ -59,7 +59,7 @@ This work introduces:
 ### Thermal Diffusivity Map (40 mm × 40 mm)
 
 <p align="center">
-  <img src="CuCrAlHeatmap.pdf" width="75%">
+  <img src="assets/CuCrAlHeatmap.pdf" width="75%">
 </p>
 
 ---
